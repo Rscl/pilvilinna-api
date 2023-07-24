@@ -1,0 +1,3 @@
+# ignore files folder
+/files/**
+/vendor
