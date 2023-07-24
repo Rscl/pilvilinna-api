@@ -29,4 +29,4 @@ Pilvilinna API tarjoaa seuraavat päätepisteet:
 - /register.php: Palveluun rekisteröityminen
 
 ## Lisenssi
-Pilvilinna API on lisensoitu MIT-lisenssillä. Katso tiedosto LICENSE lisätietoja varten.
+Pilvilinna API on lisensoitu MIT-lisenssillä.
