@@ -22,11 +22,11 @@ Muokkaa tiedostoa config/db.inc määrittääksesi tietokantayhteyden asetukset.
 ## Käyttöliittymä
 Pilvilinna API tarjoaa seuraavat päätepisteet:
 
-/auth.php: Autentikaatio
-/status.php: API:n tila
-/files.php: Tiedostojen hallinta
-/folder.php: Kansioiden hallinta
-/register.php: Palveluun rekisteröityminen
+- /auth.php: Autentikaatio
+- /status.php: API:n tila
+- /files.php: Tiedostojen hallinta
+- /folder.php: Kansioiden hallinta
+- /register.php: Palveluun rekisteröityminen
 
 ## Lisenssi
 Pilvilinna API on lisensoitu MIT-lisenssillä. Katso tiedosto LICENSE lisätietoja varten.
